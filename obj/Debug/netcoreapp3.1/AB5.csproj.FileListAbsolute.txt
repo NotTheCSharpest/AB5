@@ -1,0 +1,12 @@
+/Users/aji/Projects/AB5/AB5/obj/Debug/netcoreapp3.1/AB5.csprojAssemblyReference.cache
+/Users/aji/Projects/AB5/AB5/obj/Debug/netcoreapp3.1/AB5.csproj.CoreCompileInputs.cache
+/Users/aji/Projects/AB5/AB5/obj/Debug/netcoreapp3.1/AB5.AssemblyInfoInputs.cache
+/Users/aji/Projects/AB5/AB5/obj/Debug/netcoreapp3.1/AB5.AssemblyInfo.cs
+/Users/aji/Projects/AB5/AB5/bin/Debug/netcoreapp3.1/AB5.deps.json
+/Users/aji/Projects/AB5/AB5/bin/Debug/netcoreapp3.1/AB5.runtimeconfig.json
+/Users/aji/Projects/AB5/AB5/bin/Debug/netcoreapp3.1/AB5.runtimeconfig.dev.json
+/Users/aji/Projects/AB5/AB5/bin/Debug/netcoreapp3.1/AB5.dll
+/Users/aji/Projects/AB5/AB5/bin/Debug/netcoreapp3.1/AB5.pdb
+/Users/aji/Projects/AB5/AB5/obj/Debug/netcoreapp3.1/AB5.dll
+/Users/aji/Projects/AB5/AB5/obj/Debug/netcoreapp3.1/AB5.pdb
+/Users/aji/Projects/AB5/AB5/obj/Debug/netcoreapp3.1/AB5.genruntimeconfig.cache
